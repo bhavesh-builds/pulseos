@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-project",
-    "slug": "react-native-project",
+    "name": "PulseOS",
+    "slug": "pulseos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "reactnativeproject",
+    "scheme": "pulseos",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
