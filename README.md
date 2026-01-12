@@ -4,6 +4,12 @@ PulseOS consolidates key updates from multiple apps into categorized "pulses," s
 
 This is an [Expo](https://expo.dev) project built with React Native for iOS.
 
+## Features
+
+- **Categorized Updates**: View updates organized by Social, Finance, Work, and Personal categories
+- **Social Integration**: Connect Facebook and Instagram accounts to see consolidated social updates
+- **Unified Dashboard**: One place to see all your important updates
+
 ## Get started
 
 1. Install dependencies
@@ -26,6 +32,15 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Setup Instructions
+
+### Social Integration (Facebook & Instagram)
+
+To enable social media integration, follow the detailed setup guide:
+
+- **[META_API_SETUP.md](./META_API_SETUP.md)** - Complete step-by-step guide for Facebook and Instagram API setup
+- **[SETUP_CHECKLIST.md](./SETUP_CHECKLIST.md)** - Quick reference checklist
 
 ## Get a fresh project
 
